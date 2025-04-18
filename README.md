@@ -1,34 +1,10 @@
-# CriandoseuprimeiroCopilotonoMicrosoftCopilotStudio
-Criando seu primeiro Copiloto no Microsoft Copilot Studio
+# Desafio: Criando seu Primeiro Copiloto no Microsoft Copilot Studio
 
-- CONTEÚDOS
-- INFORMAÇÕES
+## 📚 Objetivo do Desafio
+O objetivo deste desafio é **criar seu primeiro Copiloto** utilizando o **Microsoft Copilot Studio**. Durante o processo, você irá explorar a plataforma, aprender suas funcionalidades e construir um copiloto básico. Ao final, você deverá documentar o que aprendeu e compartilhar sua experiência com a comunidade.
 
-###### DESCRIÇÃO
+## 📑 Materiais de Apoio
 
-Aprenda a criar um copiloto no Microsoft Copilot Studio, abordando a configuração de fluxos de conversa, integração com serviços externos e personalização de respostas. Ao final, você terá um assistente funcional capaz de interagir de forma inteligente e automatizar tarefas.
-
-**Microsoft Copilot Studio****Inteligência Artificial (IA)**
-
-------
-
-###### Full-Stack
-
-###### Básico
-
-------
-
-###### ESPECIALISTA
-
-![author](https://hermes.dio.me/users/author/photos/82adbebf-094f-48a0-b8a2-fa524e38c193.jpg)
-
-###### Renato Romão
-
-Copilot Studio & Azure AI, Microsoft[**](https://www.linkedin.com/in/renatoromao/?locale=pt_BR)
-
-
-
-https://web.dio.me/lab/criando-seu-primeiro-copiloto-no-microsoft-copilot-studio/learning/9eedcc64-8574-4bd7-a688-501124e14f67?back=/track/suzano-python-developer
-
-
+- **Documentação Oficial do Microsoft Copilot Studio**:
+  - Para mais informações e recursos sobre o Microsoft Copilot Studio, acesse a [documentação oficial](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/).
 
